@@ -1,0 +1,87 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>music</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<link href="main.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<center>Click on the song to play it:</center>
+<br>
+
+	<!--<h3>Russian</h3>-->
+	<ul> 
+    1919-1921<br><br>
+	<li><a href="music/+ 01 Beloi akatcii - april 20.mp3">1. "Белой акации гроздья душистые" ("Бег")</a></li>
+	<li><a href="music/+ 02 Vashe blag. 29 apr 3.mp3">2. "Ваше благородие..." ("Белое солнце пустыни")</a></li>
+	<li><a href="music/+ 03 Russkoe pole - mai 2.mp3">3. "Русское поле" ("Новые приключения неуловимых")</a></li>
+
+<br>1922-1940<br><br>
+
+	<li><a href="music/+ 04 Roumania - april.mp3">4 "Roumania, Roumania"</a></li>
+	<li><a href="music/+ 05 Amapola.mp3">5. "Amapola" ("Once upon a time in America")</a></li>
+	<li><a href="music/+ 06 Toreador icpr. april 15.mp3">6. "Toreador" (Bizet)</a></li>
+	<li><a href="music/+ 07 Zabava.mp3">7. Есенин. "Забава"</a></li>
+	<li><a href="music/+ 08 Stardust.mp3">8. "Stardust"</a></li>
+	<li><a href="music/+ 09 I've got u under m s - i.mp3">9. "I've got you under my skin" </a></li>
+	<li><a href="music/+ 10 Summertime i.mp3">10. "Summertime"</a></li>
+
+<br>1941-45<br><br>
+
+	<li><a href="music/+ 11 Ia proshy.mp3">11. "Песня о далекой родине" ("17 мгновений весны")</a></li>
+	<li><a href="music/+ 12 Frontov. kor - Mix.mp3">12. "Песня фронтовых корреспондентов"</a></li>
+	<li><a href="music/+ 13 Mgnovenia.mp3">13. "Мгновения" ("17 мгновений весны")</a></li>
+	<li><a href="music/+ 14 of ot geroev eff.mp3">14. "От героев былых времен..." ("Офицеры")</a></li>
+	<li><a href="music/+ 15 Pora v pyt' dorogy.mp3">15 "Пора в путь-дорогу" ("Небесный тихоход")</a></li>
+	<li><a href="music/+ 16 Exo liubvi.mp3">16. "Эхо любви" ("Судьба")</a></li>
+	<li><a href="music/+ 17 Poclednii akkord.mp3">17. "Последний аккорд"</a></li>
+	<li><a href="music/+ 18 exal ia iz berlina.mp3">18. "Ехал я из Берлина"</a></li>
+	<li><a href="music/+ 19  Poklon March 26 eff.mp3">19. "Поклонимся Великим тем годам"</a></li>
+	<li><a href="music/+ 20  Zhyravli final.mp3">20. "Журавли".</a></li>
+
+<br>1948-1978<br><br>
+
+	<li><a href="music/+ 21 Ha Tikva.mp3">21. "Ha-Tikva"</a></li>
+	<li><a href="music/+ 22 BESSAME MUCHO i.mp3">22. "Besame mucho"</a></li>
+	<li><a href="music/+ 23 Tri goda.mp3">23. "Три года ты мне снилась" ("Большая жизнь")</a></li>
+	<li><a href="music/+ 24 Soldatbl v pyt'.mp3">24. "Солдаты в путь" ("Максим Перепелица")</a></li>
+	<li><a href="music/+ 25 Berezovbli cok.mp3">25. "Березовый сок"</a></li>
+	<li><a href="music/+ 26 Ia v vcennem lecy.mp3">26. "Я в весеннем лесу..." ("Ошибка резидента")</a></li>
+	<li><a href="music/+ 27 Let it be.mp3">27. "Let it be"</a></li>
+	<li><a href="music/+ 28 Cavatina.mp3">28. "Cavatina" ("Deer hunter")</a></li>
+	<li><a href="music/+ 29 What a wond world.mp3">29. "What a wonderful world" ("Good morning, Vietnam")</a></li>
+	<li><a href="music/+ 30 Rodina moia.mp3">30, "Родина моя". </a></li>
+ </ul>    
+  
+  <!--</ul>
+  <h3>Popular&Jazz</h3>
+  <ul> -->
+  <!--<li><a href="music/under_my_skin.mp3">I've got you under my skin</a></li>
+  <li><a href="music/UnchainedMelody.mp3">Unchained Melody</a></li>   -->
+  
+  <!-- <li><a href="music/ImpossibleDream.mp3">Impossible Dream</a></li>
+  
+   <li><a href="music/Michelle.mp3">Michelle</a></li> -->
+    
+	<!-- </ul>
+  <h3>Jewish</h3>
+  <ul>	 
+  <li><a href="music/diva.mp3">Diva</a></li>
+  <li><a href="music/Hava.mp3">Hava Nagila</a></li>
+  
+  <li><a href="music/Belovezha.mp3">Belovezha</a></li>
+  
+   <li><a href="music/Magdalena.mp3">Magdalena</a></li>
+   <li><a href="music/SavingAllMyLoveForYou.mp3">Saving All My Love For You</a></li>
+  <li><a href="music/BalbeFinal.mp3">Balbeli Oto</a></li>
+  <li><a href="music/MoonLight.mp3">Moonlight Serenade</a></li>
+  <li><a href="music/KoEhasFinal.mp3">Le Kol Ehad</a></li>    
+</ul>
+<h3>Classics</h3>
+  <ul>	 -->
+  <!--<li><a href="music/Mondschein.mp3">Mondschein Sonate</a></li>
+  <li><a href="music/Adagio.mp3">Adagio</a></li>
+   -->
+</body>
+</html>
